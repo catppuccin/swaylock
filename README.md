@@ -36,10 +36,8 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Choose your flavour
+2. Copy the contents of *flavour*.conf into your swaylock config file, replacing the existing color settings
 
 ## 💝 Thanks to
 
