@@ -19,19 +19,19 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="./assets/latte.png"/>
+<img src="./assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="./assets/frappe.png"/>
+<img src="./assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="./assets/macchiato.png"/>
+<img src="./assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="./assets/mocha.png"/>
+<img src="./assets/mocha.webp"/>
 </details>
 
 ## Usage
@@ -41,9 +41,8 @@
 
 ## 💝 Thanks to
 
-<a href="https://github.com/remiposo">remiposo</a>
-
-<a href="https://github.com/Anomalocaridid">Anomalocaridid</a>
+- [remiposo](https://github.com/remiposo)
+- [Anomalocaridid](https://github.com/Anomalocaridid)
 
 &nbsp;
 
