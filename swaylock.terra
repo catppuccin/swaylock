@@ -1,0 +1,37 @@
+---
+whiskers:
+  version: 2.0.0
+  matrix:
+    - flavor
+  filename: "themes/{{ flavor.identifier }}.conf"
+---
+{%- set palette = flavor.colors -%}
+color={{ palette.base.hex }}
+bs-hl-color={{ palette.rosewater.hex }}
+caps-lock-bs-hl-color={{ palette.rosewater.hex }}
+caps-lock-key-hl-color={{ palette.green.hex }}
+inside-color=00000000
+inside-clear-color=00000000
+inside-caps-lock-color=00000000
+inside-ver-color=00000000
+inside-wrong-color=00000000
+key-hl-color={{ palette.green.hex }}
+layout-bg-color=00000000
+layout-border-color=00000000
+layout-text-color={{ palette.text.hex }}
+line-color=00000000
+line-clear-color=00000000
+line-caps-lock-color=00000000
+line-ver-color=00000000
+line-wrong-color=00000000
+ring-color={{ palette.lavender.hex }}
+ring-clear-color={{ palette.rosewater.hex }}
+ring-caps-lock-color={{ palette.peach.hex }}
+ring-ver-color={{ palette.blue.hex }}
+ring-wrong-color={{ palette.maroon.hex }}
+separator-color=00000000
+text-color={{ palette.text.hex }}
+text-clear-color={{ palette.rosewater.hex }}
+text-caps-lock-color={{ palette.peach.hex }}
+text-ver-color={{ palette.blue.hex }}
+text-wrong-color={{ palette.maroon.hex }}
