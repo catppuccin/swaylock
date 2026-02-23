@@ -39,6 +39,9 @@
 1. Choose your flavour
 2. Copy the contents of *flavour*.conf into your swaylock config file, replacing the existing color settings
 
+Note: For the clock shown in the screenshot, you will need [swaylock-effects](https://github.com/mortie/swaylock-effects).
+This theme works for both swaylock and swaylock-effects with no changes.
+
 ## 💝 Thanks to
 
 - [remiposo](https://github.com/remiposo)
